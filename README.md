@@ -1,1 +1,1 @@
-# bootstrap
+# Basic bootstrap responsive website.
